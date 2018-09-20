@@ -1,8 +1,8 @@
 ---
 title: The Business of Container
 date: 2017-11-15 14:23:09 +00:00
-description: Say “Docker”, and you quite possibly mean lightweight virtual machine
-  using Linux technology.
+categories:
+- Docker
 ---
 
 When you mention Excel, you mean spreadsheet. Say “Docker”, and you quite possibly mean lightweight virtual machine using Linux technology.
