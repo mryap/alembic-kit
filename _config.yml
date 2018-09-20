@@ -35,7 +35,7 @@ navigation_header:
   Home: /
   About: /about/
   Blog: /blog/
-  Hire Me: /hire/
+  
 
 # Footer nav
 navigation_footer:
