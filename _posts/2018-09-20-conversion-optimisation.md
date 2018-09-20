@@ -6,12 +6,6 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-# Get Optimise
-
-> * [Speed](#speed)
-> * [upgrade your website to HTTPS](#https)
-
-
 
 
 ###   <a name="speed"></a>Speed
