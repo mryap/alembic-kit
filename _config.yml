@@ -21,7 +21,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
+title: 'Product Marketing Analytics'
 description: 'This is my new website'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
@@ -35,6 +35,7 @@ navigation_header:
   Home: /
   About: /about/
   Blog: /blog/
+  Hire Me: /hire/
 
 # Footer nav
 navigation_footer:
