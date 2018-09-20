@@ -3,7 +3,7 @@ title: Welcome to my website
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Hello, I am Yap
 ---
 
-There isn't much going on here yet, but watch this space
+I help marketers better inform with data, turning digital insights into customer value using Google Analytics, Google Tag Manger as well as Machine Learning.
