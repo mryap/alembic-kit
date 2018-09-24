@@ -56,3 +56,5 @@ collections:
 google:
   tag_manager:
     container_id: GTM-WXZ576M   
+
+google_analytics: 'UA-126272083-1'
