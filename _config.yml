@@ -17,6 +17,7 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
+- jekyll-google-tag-manager
 
 # Site settings
 url: 'https://mydomain.com'
