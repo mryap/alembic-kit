@@ -36,7 +36,8 @@ navigation_header:
   Home: /
   About: /about/
   Blog: /blog/
-  Services: /service/
+  Service: /service/
+  Hire: /hire/
   
 
 # Footer nav
