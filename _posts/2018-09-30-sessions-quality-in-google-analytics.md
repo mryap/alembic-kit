@@ -3,6 +3,7 @@ layout: post
 title: Sessions Quality in Google Analytics
 author: YAP S S
 date: '2018-09-30 11:38:00'
+image: /assets/img/image.jpg           # your post featured image path  
 categories: misc
 ---
 Sessions Quality 
