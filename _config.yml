@@ -36,7 +36,7 @@ navigation_header:
   Home: /
   About: /about/
   Blog: /blog/
-  Service: /service/
+  #Service: /service/
   Hire: /hire/
   
 
