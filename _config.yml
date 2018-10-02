@@ -36,6 +36,7 @@ navigation_header:
   Home: /
   About: /about/
   Blog: /blog/
+  Services: /service/
   
 
 # Footer nav
@@ -57,4 +58,4 @@ google:
   tag_manager:
     container_id: GTM-WXZ576M   
 
-google_analytics: 'UA-126272083-1'
+#google_analytics: 'UA-126272083-1'
