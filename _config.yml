@@ -38,6 +38,7 @@ navigation_header:
   Blog: /blog/
   #Service: /service/
   Hire: /hire/
+  Categories:/categories/
   
 
 # Footer nav
@@ -51,7 +52,7 @@ collections:
     output: true
     description: "My scrappy notes on all things data analytics"
     feature_text: |
-      Welcome to my blog
+      My scrappy notes on all things data analytics
     feature_image: "https://picsum.photos/2560/600?image=866"
     
 # GTM
