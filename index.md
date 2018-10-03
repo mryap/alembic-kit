@@ -6,4 +6,4 @@ feature_text: |
   ## Hello, I am Yap .
 ---
 
-I help marketers better inform with data, turning digital insights into customer value using Google Analytics, Google Tag Manger as well as Machine Learning.
+I help marketers capture, analyze, optimize and engage through every customer across all touch-points. 
