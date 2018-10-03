@@ -4,11 +4,11 @@ title: Sessions Quality in Google Analytics
 author: YAP S S
 date: '2018-09-30 11:38:00'
 image: /assets/img/image.jpg           # your post featured image path  
-categories: misc
+categories: Google Analytics
 ---
 Sessions Quality 
 
-![](https://www.analyticspros.com/wp-content/uploads/2017/03/2017-03-28_1252.png)
+
 
 An estimate of how close a particular session was to transacting, ranging from 1 to 100, calculated for each session. A value closer to 1 indicates a low session quality, or far from transacting, while a value closer to 100 indicates a high session quality, or very close to transacting. A value of 0 indicates that Session Quality is not calculated for the selected time range. 
 
