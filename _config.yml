@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Product Marketing Analytics'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://s.gravatar.com/avatar/282865eadd5ccc5a801ac7b1fa519855?s=80"
+logo: "https://github.com/identicons/mryap.png"
 
 # Pagination
 paginate: 5
