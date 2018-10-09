@@ -5,6 +5,10 @@ author: YAP S S
 date: "2018-10-09 13:11"
 ---
 
+
+
+Some of the mistakes when I encounter using Git and GitHub for the first time 
+
 # Git push requires username and password
 
 You cloned a git repository from your Github account to your PC.
