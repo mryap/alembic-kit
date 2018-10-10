@@ -24,8 +24,11 @@ url: 'https://mydomain.com'
 baseurl: ''
 title: 'Product Marketing Analytics'
 description: 'This is my new website'
-permalink: pretty
+# permalink: pretty
 logo: "https://github.com/identicons/mryap.png"
+
+# Permalink format (/blog/ is ignored for pages)
+permalink: /blog/:title
 
 # Pagination
 paginate: 5
