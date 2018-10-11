@@ -3,7 +3,8 @@ layout: post
 title: Common Mistakes in using GitHub
 author: YAP S S
 date: '2018-10-09 13:11'
-categories: Data Science
+categories:
+- Data Science
 ---
 
 Github is a vital toolbox for anyone who called themselves `Data Scientist`. There are 10 Git commands that can keep you productive to share your data analysis source code with other team members.
