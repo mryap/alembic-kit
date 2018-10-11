@@ -1,8 +1,7 @@
 ---
 layout: "post"
-title: "Google Breakfast Briefing  —  3 August 20181"
-date: "2018-10-10 10:08"
-published: true
+title: "Google Breakfast Briefing  —  3 August 2018"
+date: "2018-08-25 10:08"
 categories:
 - Event
 ---
