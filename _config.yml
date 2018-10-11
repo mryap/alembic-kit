@@ -23,7 +23,7 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'Hire Yap'
-description: 'This is my personal website'
+description: 'This is Yap Shiao Shyan personal website'
 # permalink: pretty
 logo: "https://github.com/identicons/mryap.png"
 
@@ -40,7 +40,7 @@ navigation_header:
   About: /about/
   Blog: /blog/
   #Service: /service/
-  Hire: /hire/
+  #Hire: /hire/
   Categories: /categories/
   
 
