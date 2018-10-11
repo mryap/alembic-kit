@@ -3,7 +3,7 @@ layout: post
 title: Losing My Domain Name
 author: YAP S S
 date: '2018-10-08 16:59'
-categories: misc
+categories: General
 ---
 
 I used to have a personal site with domain name `getoptimise` dot com
@@ -13,6 +13,7 @@ absence amount to get it back. I always have the impression that domain name not
 renew will be 'back to the pool' again and I can buy it back.  
 
 ![My old domain name goes to a better place](https://res.cloudinary.com/mryap/image/upload/v1539066791/www.whois.com_whois_getoptimise.com.png)
+Caption: Say hi to the new owner...
 
 # All things consider
 
