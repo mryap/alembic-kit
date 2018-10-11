@@ -2,7 +2,9 @@
 layout: "post"
 title: "Google Breakfast Briefing  —  3 August 20181"
 date: "2018-10-10 10:08"
-published: false
+published: true
+categories:
+- Event
 ---
 
 This months session topic is “how to help you build a successful brand campaign on YouTube”
