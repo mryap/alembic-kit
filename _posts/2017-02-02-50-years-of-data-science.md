@@ -2,7 +2,6 @@
 title: 50 years of Data Science
 date: 2017-02-02 12:21:48 +00:00
 author: mryap
-wordpress_id: 26
 categories:
 - Data Science
 ---
