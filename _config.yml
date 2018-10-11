@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'Product Marketing Analytics'
-description: 'This is my new website'
+title: 'Hire Yap'
+description: 'This is my personal website'
 # permalink: pretty
 logo: "https://github.com/identicons/mryap.png"
 
@@ -53,7 +53,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My scrappy notes on all things data analytics"
+    description: "My scrappy notes on all things data analytics, web design and developments, data science"
     feature_text: |
       Notes, Updates, News
     feature_image: "https://picsum.photos/2560/600?image=866"
