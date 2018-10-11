@@ -2,6 +2,8 @@
 layout: post
 title: "Handling Missing Data with Code"
 date: 2018-09-16
+categories:
+- Data Science
 ---
 
 You can leave the data as is and go for a model which can handle missing data (such as XGBoost, Random Forest).  For some machine learning algorithms such as Linear Discriminant Analysis (**LDA**), having missing values in a dataset can cause errors.
