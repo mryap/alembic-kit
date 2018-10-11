@@ -10,11 +10,9 @@ I used to have a personal site with domain name `getoptimise` dot com
 
 My failure not to renew on times means someone bought it and I have to fork out
 absence amount to get it back. I always have the impression that domain name not
-renew will be 'back to the pool' again and I can buy it back. There
-are people who standby and snag them the moment when your domain name expired
-when you did not renew on time.
+renew will be 'back to the pool' again and I can buy it back.  
 
-![](https://res.cloudinary.com/mryap/image/upload/v1539066791/www.whois.com_whois_getoptimise.com.png)
+![My old domain name goes to a better place](https://res.cloudinary.com/mryap/image/upload/v1539066791/www.whois.com_whois_getoptimise.com.png)
 
 # All things consider
 
@@ -40,4 +38,6 @@ good fitted bra initiative!
 # My lost is a gain in knowledge
 
 While it not critical for me that the old domain name is lost. I want to get myself
-familiar with the process so I can advise my client or future employer. If renewal time is up, don't put it off. Renew immediately when prompted by domain registrar timely reminder.
+familiar with the process so I can advise my client or future employer. If renewal time is up, don't put it off. Renew immediately when prompted by domain registrar timely reminder. There
+are people who standby and snag them the moment when your domain name expired
+when you did not renew on time.
