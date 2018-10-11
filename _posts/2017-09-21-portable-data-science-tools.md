@@ -2,7 +2,10 @@
 title: Portable Data Science Tools
 date: 2017-09-21 20:59:32 +01:00
 description: 'If ultimate portability is all you seek, goes for the cloud options. '
+categories:
+- Data Science
 ---
+If ultimate portability is all you seek, goes for the cloud options.
 
 Wanting to keep up learning and developing, so my skills are no longer rusty, the idea to have a portable data science tools to bring around ever more sensible. 
 
