@@ -21,3 +21,10 @@ The best way to implement GA new user ID feature is to have an authorization sys
 Google Analytics User ID features allows you to track the same visitors across different devices including desktop.  Setting Google Analytics user ID feature can be challenging. I am here to help. Just drop me a note.
 
 [Connect multiple devices, sessions, and engagement data to the same visitors. ](https://support.google.com/analytics/answer/3123662?hl=en)
+
+### Addendum 2018
+
+In July 2018, Google Analytics's new Cross Device capabilities being rolled out in some GA account.   Google is keeping user privacy in mind with these new features and not including people that haven’t opted in to their personalized ad tracking.  
+
+![](https://image-store.slidesharecdn.com/26f4b315-a7f8-4c10-b813-6bac31196090-original.png)
+
