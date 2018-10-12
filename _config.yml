@@ -63,4 +63,5 @@ google:
   tag_manager:
     container_id: GTM-T4JF5J8   
 
-#google_analytics: 'UA-126272083-1'
+google_analytics: 'UA-124500327-2'
+
