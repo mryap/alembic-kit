@@ -18,25 +18,29 @@ Have you ever posted your content to a social network & found:
 
 That where Open Graph Protocol (OGP) is at play.
 
+![](https://res.cloudinary.com/mryap/image/upload/v1539625138/open-graph-logo.png)
+
 Open Graph tags allows marketers to control the experience their content produces as it shows up on social networks including Google+, Facebook and Twitter.
 
 The Open Graph protocol is Facebook’s standard for implementing social meta tags. It has also become de-facto standard recognized by all the major social platforms. This means that Twitter, LinkedIn and Google+ will often pull the headline, description and image indicated in the Open Graph tags.
 
 Below are some of the tools that helps you validate whether your content looks good when posted on those social networks.
 
-http://ogp.me/
-
-https://moz.com/blog/meta-data-templates-123
-
-https://search.google.com/structured-data/testing-tool
+#### Facebook
 
 https://developers.facebook.com/tools/debug/og/object
 https://developers.facebook.com/docs/reference/opengraph
 
+#### Twitter
+
 https://cards-dev.twitter.com/validator
 https://dev.twitter.com/cards/types
 
+#### Pinterest
+
 https://developers.pinterest.com/tools/url-debugger/
 https://developers.pinterest.com/docs/rich-pins/overview/
+
+#### Linkedin
 
 https://developer.linkedin.com/docs/share-on-linkedin
