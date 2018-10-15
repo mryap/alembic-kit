@@ -1,8 +1,6 @@
 ---
 title: Advance segmentation in Google Analytics
 date: 2018-08-11 08:58:42 +01:00
-description: Google Analytics User ID features allows you to track the same visitors
-  across different devices including desktop.
 categories:
 - Google Analytics
 ---
