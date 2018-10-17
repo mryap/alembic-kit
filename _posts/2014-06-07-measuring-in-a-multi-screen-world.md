@@ -5,7 +5,7 @@ description: Google Analytics User ID features allows you to track the same visi
   across different devices including desktop.
 image: "/img/measurement-in-mutli-screen-world5.jpg"
 categories:
-- Google Analytics
+-  Analytics
 ---
 
 People are bringing mobile and tablet into the research and buying cycle. As a business owner, you need to understand what is really leading to the sales and how users are combining all these devices when they visit your online property.
