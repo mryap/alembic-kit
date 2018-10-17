@@ -5,7 +5,7 @@ description: You've created a compelling website and brand, why throw it away wh
   you try to share your content on social network?
 image: "/img/logo.png"
 categories:
-- Social Media
+- General
 ---
 
 You've created a compelling website and brand, don't squander it away when you try to share your content on social network.

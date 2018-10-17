@@ -3,7 +3,7 @@ title: A seismic shift in business models is already here
 date: 2017-04-24 15:00:58 +01:00
 description: 'Have you made moves to turn your business into a platform? '
 categories:
-- Business Models
+- Platform
 ---
 
 <blockquote>When a platform is self-service, even improbable ideas get tried, because there’s no expert gatekeeper ready to say “That will never work!” Guess what? Many of those improbable ideas do work.</blockquote>

@@ -4,7 +4,7 @@ title: Book Review of Remote
 author: YAP S S
 date: '2018-08-09 10:28:54'
 categories:
-- Book Review
+- Review
 ---
 
 

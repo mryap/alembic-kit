@@ -2,7 +2,7 @@
 layout: post
 title: Speed and Security - 2 elements you can't ignore
 categories:
-- Conversion Optimisation
+- Optimisation
 ---
 Wondering which of your website pages are effecting your load times? 
 
