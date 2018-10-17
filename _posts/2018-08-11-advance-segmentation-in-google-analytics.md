@@ -2,7 +2,7 @@
 title: Advance segmentation in Google Analytics
 date: 2018-08-11 08:58:42 +01:00
 categories:
-- Google Analytics
+-  Analytics
 ---
 
 Segmenting by Sequence make it possible to segment users based on a sequence of events, e.g. viewed a specific page then viewed another, or viewed a specific page then take some action.

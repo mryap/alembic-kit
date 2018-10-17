@@ -2,7 +2,7 @@
 title: Data Sampling in Google Analytics
 date: 2017-12-03 08:44:16 +00:00
 categories:
-- Google Analytics
+- Analytics
 ---
 
 Google Analytics is a must have for every business in the beginning, but as your business grows you need more flexibility and customization, because Google Analytics may give you inaccurate data.
