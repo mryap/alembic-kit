@@ -1,5 +1,5 @@
 ---
-title: Hire Yap to gain more insight and optimization opportunities
+title: Gain more insight and optimization opportunities
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
