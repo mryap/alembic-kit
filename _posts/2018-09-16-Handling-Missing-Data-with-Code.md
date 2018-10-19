@@ -23,7 +23,7 @@ Mean substitution is about the worst thing you can do for missing data.
 
 A data analyst worth his or her salt will report which missing data technique used and why.
 
-## How to handle missing data with SQL, R and Python
+## Handle missing data with SQL, R and Python
 
 You can leave the data as is and go for a model which can handle missing data (such as XGBoost, Random Forest).  For some machine learning algorithms such as Linear Discriminant Analysis (**LDA**), having missing values in a dataset can cause errors.
 
@@ -56,4 +56,4 @@ print(dataset.head(20))
 ```
 
 ![](https://i.etsystatic.com/5516807/r/il/007a20/229305972/il_570xN.229305972.jpg)
-*Source: https://www.etsy.com/listing/70557200/statistics-propaganda-poster-missing*
+*Source: [statistics propaganda poster missing](https://www.etsy.com/listing/70557200/statistics-propaganda-poster-missing)*
