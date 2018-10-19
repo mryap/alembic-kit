@@ -56,4 +56,4 @@ print(dataset.head(20))
 ```
 
 ![](https://i.etsystatic.com/5516807/r/il/007a20/229305972/il_570xN.229305972.jpg)
-*Source: [statistics propaganda poster missing](https://www.etsy.com/listing/70557200/statistics-propaganda-poster-missing)*
+*Source: [Etsy Listing](https://www.etsy.com/listing/70557200/statistics-propaganda-poster-missing)*
