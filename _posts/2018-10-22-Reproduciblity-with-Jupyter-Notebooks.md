@@ -17,15 +17,11 @@ Listing the versions of critical dependencies in the notebook itself (best done 
 
 In notebooks, you can use a notebook extension such as [watermark](https://github.com/rasbt/watermark) to explicitly print out your dependencies. 
 
-### Version Control
-
-Jupyter Notebooks store both code and specialized and extensive metadata about each cell as a text file in the JSON (JavaScript Object Notation) format. Version control systems compare differences in these JSON files, not differences in the user-friendly notebook GUI (graphical user interface). 
-
 ### Share Your Data
 
 Ideally, share your entire dataset alongside your notebooks. I used the word ideally as many datasets
 are too large or too sensitive to share this way.  Host public copies of medium-sized, anonymized data in 
-figshare (https://figshare.com/), zenodo (https://zenodo.org/)).  These data hosting services provide Digital Object Identifiers (doi) to uniquely and permanently identify datasets, an important aspect of reproducibility. Having access to a clearly-annotated notebook is of little use to reproducibility if the underlying data is locked away.  
+figshare (https://figshare.com/), zenodo (https://zenodo.org/).  These data hosting services provide Digital Object Identifiers (doi) to uniquely and permanently identify datasets, an important aspect of reproducibility. Having access to a clearly-annotated notebook is of little use to reproducibility if the underlying data is locked away.  
 
 ### Strive for Zero Installation 
 
