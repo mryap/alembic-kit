@@ -1,7 +1,7 @@
 ---
-layout: "post"
-title: "Reproduciblity with Jupyter Notebooks"
-date: "2018-10-22 11:58"
+layout: post
+title: "Reproducibility with Jupyter Notebooks"
+date: 2018-10-22 11:58
 
 ---
 
