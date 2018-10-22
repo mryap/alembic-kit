@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Mistakes in using GitHub
+title: Reproducibility with Jupyter Notebooks
 author: YAP S S
 date: '2018-10-22 11:58'
 categories:
