@@ -58,10 +58,5 @@ collections:
       Notes, Updates, News
     feature_image: "https://picsum.photos/2560/600?image=866"
     
-# GTM
-google:
-  tag_manager:
-    container_id: GTM-T4JF5J8   
 
-google_analytics: 'UA-124500327-2'
 
