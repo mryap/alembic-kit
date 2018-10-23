@@ -13,3 +13,6 @@ title: About this website
 <!-- Dark footer [017] -->
 
 <div id="anymod-nbodm"></div>
+
+<!-- Example mod tag -->
+<div id="anymod-aaaaa"></div>
