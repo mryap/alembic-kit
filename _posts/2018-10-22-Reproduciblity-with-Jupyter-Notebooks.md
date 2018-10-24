@@ -26,3 +26,7 @@ figshare (https://figshare.com/), zenodo (https://zenodo.org/).  These data host
 ### Strive for Zero Installation 
 
 To further lower barriers to reproducibility, use Binder to provide a zero-install environment to run your notebooks in the cloud (https://mybinder.org/) You can also create a [Docker](https://hireyap.netlify.com/blog/the-business-of-container) image of your environment to ease setup. 
+
+![](https://res.cloudinary.com/mryap/image/upload/v1540387258/mybinder-install-missing-module.png)
+
+Module not found? No problem. Just type `!pip install scipy`in a new cell and you good to go. All this running in the cloud. No mess up on your PC system. 
