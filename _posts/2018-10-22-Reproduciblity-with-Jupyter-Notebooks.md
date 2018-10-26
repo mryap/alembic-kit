@@ -30,3 +30,12 @@ To further lower barriers to reproducibility, use Binder to provide a zero-insta
 ![](https://res.cloudinary.com/mryap/image/upload/v1540389501/hub.mybinder.org_user_EnsembleMethods_ipynb.png)
 
 Module not found? No problem. Just type `!pip install scipy`in a new cell and you good to go. All this running in the cloud. No mess up on your PC system. 
+
+In this example, 6 several module of library software is require to re-produce the analysis. List out all the software library individually on a separate line in a `requirements.txt` and then type
+
+`!pip3 install -r requirements.txt`
+
+![](https://res.cloudinary.com/mryap/image/upload/v1540559529/pip-install-requirements.png)
+
+In one fell swoop, the six require software library are download and install!
+
