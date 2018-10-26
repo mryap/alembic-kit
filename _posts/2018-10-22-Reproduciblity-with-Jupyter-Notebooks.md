@@ -27,15 +27,11 @@ figshare (https://figshare.com/), zenodo (https://zenodo.org/).  These data host
 
 To further lower barriers to reproducibility, use [Binder](https://mybinder.org/) to provide a zero-install environment to run your notebooks in the cloud You can also create a [Docker](https://hireyap.netlify.com/blog/the-business-of-container) image of your environment to ease setup. 
 
-![](https://res.cloudinary.com/mryap/image/upload/v1540389501/hub.mybinder.org_user_EnsembleMethods_ipynb.png)
+In this example, 6 different module of library software is require to re-produce the analysis. List out all the software library individually on a separate line in a `requirements.txt` and then type
 
-Module not found? No problem. Just type `!pip install scipy`in a new cell and you good to go. All this running in the cloud. No mess up on your PC system. 
-
-In this example, 6 several module of library software is require to re-produce the analysis. List out all the software library individually on a separate line in a `requirements.txt` and then type
-
-`!pip3 install -r requirements.txt`
+`!pip install -r requirements.txt`
 
 ![](https://res.cloudinary.com/mryap/image/upload/v1540559529/pip-install-requirements.png)
 
-In one fell swoop, the six require software library are download and install!
+In one fell swoop, the six require software library are download and installed! All running in the cloud. No mess up on your PC system. 
 
