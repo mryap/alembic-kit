@@ -9,7 +9,7 @@ categories: General
 I used to have a personal site with domain name `getoptimise` dot com
 
 My failure not to renew on times means someone bought it and I have to fork out
-absence amount to get it back. I always have the impression that domain name not
+obsence amount to get it back. I always have the impression that domain name not
 renew will be 'back to the pool' again and I can buy it back.  
 
 ![My old domain name goes to a better place](https://res.cloudinary.com/mryap/image/upload/v1539066791/website/www.whois.com_whois_getoptimise.com.png)
@@ -31,7 +31,7 @@ As my next domain name is also to be my trade
 name, I do not want this to happen. People out of habit put `.com`, google it
 and bring them to someone website.
 
-I also consider paring my family name with .ME but sounds so weird.
+I also consider pairing my family name with .ME but sounds so weird.
 
 My search for the perfect domain name brings me to Twitter. The domain name also need to match a social media handle. At one point, I settle for a domain name and found out on Twitter, it is a hashtag for a
 good fitted bra initiative!
