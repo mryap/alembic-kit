@@ -4,6 +4,8 @@ title: Speed and Security - 2 elements you can't ignore
 categories:
 - Optimisation
 ---
+Google notes that “[53% of users will abandon a site if it takes longer than 3 seconds to load](https://developers.google.com/web/progressive-web-apps/).” A few years ago, Amazon published a fascinating statistic that they [lost 1% of sales for every 100ms of latency](https://www.digitalrealty.com/blog/the-cost-of-latency/).
+
 Wondering which of your website pages are effecting your load times? 
 
 Starting in July 2018, page speed will be a ranking factor for mobile searches. Here are some resources that can be used to evaluate a website page’s performance.
