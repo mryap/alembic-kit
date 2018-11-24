@@ -35,3 +35,18 @@ In this example, 6 different module of library software is require to re-produce
 
 In one fell swoop, the six require software library are download and installed! All running in the cloud. No mess up on your PC system. 
 
+### Diff, Merge, and Validate
+
+Use version control 
+
+Jupyter Notebooks store both code and metadata about each cell as a text file in the JSON (JavaScript Object Notation) format. Version control systems compare differences in these JSON files, not differences in the user-friendly notebook GUI (graphical user interface). Because of this, reported differences between
+versions of a given notebook are usually difficult for users to find and understand, because they
+are expressed as changes in the abstruse JSON metadata for the notebook. To address this issue, use a notebook-specific diffing tool like [nbdime](https://github.com/jupyter/nbdime) that understands notebook structure and presents diffs in meaningful ways.
+
+#### See also
+
+[Ten Simple Rules for Reproducible Research in Jupyter
+Notebooks](https://arxiv.org/ftp/arxiv/papers/1810/1810.08055.pdf)
+
+
+
