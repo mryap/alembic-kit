@@ -51,7 +51,13 @@ You can start using Docker with a tool called [Kitematic](https://kitematic.com/
 
 **Docker for Data Science**
 
-Here is a Docker container that lets you run Jupyter notebook <https://github.com/mryap/docker-ds>
+Here is a Docker container that lets you run RStudio
+
+![](https://res.cloudinary.com/mryap/image/upload/v1543053262/website/DswJKfaWoAAgZTU.jpg)
+
+
+
+![](https://res.cloudinary.com/mryap/image/upload/v1543053261/website/DswKS1AWkAAR-HY.jpg)
 
 **Conclusion**
 
