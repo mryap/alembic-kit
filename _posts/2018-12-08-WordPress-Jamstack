@@ -1,0 +1,15 @@
+
+---
+layout: post
+title: WordPress vs Jamstack
+author: YAP S S
+date: '2018-12-08 14:50:32'
+categories: websites
+---
+
+Besides #WordPress5,  JAMstack (Javascript, APIs, and Markup) complemented with
+the like of Netlify can be a viable approach. https://jamstack.org/examples/
+
+Don't get intimidated by Javascript, APIs, and Markup.
+Let focus first on Markup. Markup allows you to (Re-purpose your content)
+[https://www.portent.com/blog/content-strategy/content-with-github-markdown.htm].
