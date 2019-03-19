@@ -1,5 +1,5 @@
 ---
-title: Things you need to know about BigQuery
+title: Things to know about BigQuery
 date: 2019-03-18 
 description: BigQuery is a tool that allows you to store, query, and extract data. It's a separate tool from GA and GTM, part of Google's Cloud Platform.
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
@@ -9,18 +9,21 @@ categories:
 
 BigQuery is Google "managed" data warehouse for analytics that allows you to store, query, and extract data. It's a separate tool from Google Analytics and Google Tag Manager, and it is part of Google Cloud Platform.
 
-BigQuery is a "managed data warehouse".  It allows you make a cheese sandwich (i.e. data warehouse) and you don't have to milk the cow, operate the mill or harvest the wheat or drive the Tractor. Without having any hardward infrastructure to manage or needing a database administrator, BigQuery uses SQL allowing you to focus on analyzing data to find meaningful insights to gain more insig
+BigQuery is a "managed data warehouse".  It allows you make a cheese sandwich (i.e. data warehouse) and you don't have to milk the cow, operate the mill or harvest the wheat or drive the Tractor.
 
 ![](https://camo.githubusercontent.com/b00c9c4e06a58ddf265b5ff4a45ea123c4c6f8c0/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f44743844634c5f58634141686e56552e6a7067)
 
+IF you are familiar with SQL, you will be right at home with BigQuery 
+
+
+### Costs of BigQuery
+
 BigQuery has a free tier plan which allows you to query 1 Terabyte per month and store 10 gigabytes. With Google Analytics 360,  BigQuery is free, up to $500/month of usage. For website with over one-billion hits per month, that in the region of $150 per month for storage and $100 per month for querying. Google Analytics 360 customers benefit from a native integration with Google BigQuery. However, use of BigQuery is not restricted for Google Analytics 360 customers alone.
-It just a little more involved to integrate the free Google Analytics with BigQuery. 
+It just a little more involved to integrate the free Google Analytics with BigQuery.  If you need help on this, DM me.
 
 Why exports Google Analytics to BigQuery? 
 - No more data sampling! This is a step-up for those sites having heavy traffic daily 
 - An opportunity to build ANY reports with ANY segments using ANY configuration you like
-
-If you need help on this, DM me.
 
 
 This is what I learned so far after completing the course [From Data to Insights with Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/PKU7C2X2QRG8)
