@@ -9,7 +9,9 @@ categories:
 
 BigQuery is Google "managed" data warehouse for analytics that allows you to store, query, and extract data. It's a separate tool from Google Analytics and Google Tag Manager, and it is part of Google Cloud Platform.
 
-BigQuery is a "managed data warehouse".  It allows you make a cheese sandwich (i.e. data warehouse) and you don't have to milk the cow, operate the mill or harvest the wheat or drive the Tractor.
+![](https://1.bp.blogspot.com/-iXDDeOlKnx8/UqEh-DEil7I/AAAAAAAAAVI/9Uz2tdIAYNI/s1600/Screen+Shot+2013-12-03+at+6.13.03+PM+(1).png)
+
+BigQuery is a "managed data warehouse".  It allows you make a cheese sandwich (i.e. data warehouse) and you don't have to milk the cow, operate the mill or harvest the wheat or drive the Tractor. You have access to the computing and storage resources of Google Cloud Platform and are not held back by your own hardware limitation.
 
 ![](https://camo.githubusercontent.com/b00c9c4e06a58ddf265b5ff4a45ea123c4c6f8c0/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f44743844634c5f58634141686e56552e6a7067)
 
@@ -37,3 +39,8 @@ This is what I learned so far after completing the course [From Data to Insights
 -  GA360 exports to BigQuery is specific to the view.  This means that anything you filter out in the view you’re exporting does not appear in the BigQuery data.	
 
 
+### DataLab
+
+Pandas and BigQuery under one work enviroment. Google Datalab which is based on open-source Jupyter Notebook are one way to access BigQuery. You can have documentation, code, results, and visualizations all in one place making collaborating with project teams so much easier.  
+
+![](https://pbs.twimg.com/media/D0WZYtyXQAciP36.jpg:large)
