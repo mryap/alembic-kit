@@ -21,6 +21,8 @@ IF you are familiar with SQL, you will be right at home with BigQuery
 
 ### Costs of BigQuery
 
+Bigquery charges for data storage, streaming insert and for quering data. For loading and exporting data, it free of charge.
+
 BigQuery has a free tier plan which allows you to query 1 Terabyte per month and store 10 gigabytes. With Google Analytics 360,  BigQuery is free, up to $500/month of usage. For website with over one-billion hits per month, that in the region of $150 per month for storage and $100 per month for querying. Google Analytics 360 customers benefit from a native integration with Google BigQuery. However, use of BigQuery is not restricted for Google Analytics 360 customers alone.
 It just a little more involved to integrate the free Google Analytics with BigQuery.  If you need help on this, DM me.
 
@@ -31,7 +33,9 @@ Why exports Google Analytics to BigQuery?
 
 This is what I learned so far after completing the course [From Data to Insights with Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/PKU7C2X2QRG8)
 
-- Do not use `SELECT * FROM report.all.*` on BigQuery. Such query would quickly blow out the 1TB free quota! Drill down the data table as it is much cheaper to query in terms of quota usage and execution time.
+- Partitioned tables in BigQuery allows a single table to be split up. BigQuery offers date-partitioned tables. For example January will be in one partition whiles Febuary will be on another partition.  
+
+- Do not use `SELECT * FROM report.all.*` on BigQuery. Such query would quickly blow out the 1TB free quota! Drill down to the small section of data table offered by Partitioned tables. This is much cheaper to query in terms of quota usage and execution time. 
 
 - The most common error using BigQuery `Cannot access field type on a value with type ARRAY<STRUCT<type STRING, amount INT64>` The correct way is add in the appropriate UNNEST( ) and WHERE Clause filter
 
