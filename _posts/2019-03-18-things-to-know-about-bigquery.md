@@ -10,6 +10,7 @@ categories:
 BigQuery is Google "managed" data warehouse for analytics that allows you to store, query, and extract data. It's a separate tool from Google Analytics and Google Tag Manager, and it is part of Google Cloud Platform.
 
 ![](https://1.bp.blogspot.com/-iXDDeOlKnx8/UqEh-DEil7I/AAAAAAAAAVI/9Uz2tdIAYNI/s1600/Screen+Shot+2013-12-03+at+6.13.03+PM+(1).png)
+Image source : https://cloud.google.com/
 
 BigQuery is a "managed data warehouse".  It allows you make a cheese sandwich (i.e. data warehouse) and you don't have to milk the cow, operate the mill or harvest the wheat or drive the Tractor. You have access to the computing and storage resources of Google Cloud Platform and are not held back by your own hardware limitation.
 
