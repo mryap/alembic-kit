@@ -44,6 +44,10 @@ This is what I learned so far after completing the course [From Data to Insights
 -  GA360 exports to BigQuery is specific to the view.  This means that anything you filter out in the view you’re exporting does not appear in the BigQuery data.	
 
 
+### Some Use Case
+
+Connect your Firebase project to BigQuery and export your predictions, join your Crashlitics data and target users who had a difficult time using your app and keep them engaged.
+
 ### DataLab
 
 Pandas and BigQuery under one work enviroment. Google Datalab which is based on open-source Jupyter Notebook are one way to access BigQuery. You can have documentation, code, results, and visualizations all in one place making collaborating with project teams so much easier.  
