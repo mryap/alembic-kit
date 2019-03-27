@@ -1,7 +1,7 @@
 ---
 title: Analytics Retargeting 
 date: 2019-03-27 
-description: Getting ready for Analytics Retargeting 
+description: In the context of Paid Acquisition, Remarketing means being able to interact with those who have already experienced your site.  
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
 categories:
 -  retargeting
