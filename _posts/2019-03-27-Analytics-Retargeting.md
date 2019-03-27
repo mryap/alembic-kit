@@ -1,6 +1,6 @@
 ---
 title: Analytics Retargeting 
-date: 2019-03-18 
+date: 2019-03-27 
 description: Getting ready for Analytics Retargeting 
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
 categories:
@@ -48,7 +48,8 @@ ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'st
 Dynamic Remarketing goes one step further by customizing ads based on specific products or services viewed as well as purchase history.
 With PPC campaigns, previous site visitors can be targeted based on their site activity once AdWords and Analytics are connected. For Dynamic Remarketing, retailers also need to make a connection with their Merchant Center account before using.
 This is a complicated tactic that requires that the site is tagged with at least one custom dimension. Rather than describing it here, I recommend [Google’s support file](https://support.google.com/adwords/answer/6077139?hl=en&ref_topic=6077046) for setting up a feed in Google AdWords.
-Conclusions
+
+### Conclusions
 Even if your product or services is THE perfect fit, most website visitors aren’t buying today. Maybe they’re waiting on the next paycheck. These visitors are highly qualified and a lot more likely to make a purchase compared to a random guy off the street. In the context of Paid Acquisition, the power of Remarketing is undeniable. Being able to interact with those who have already experienced your site. Remarketing is about getting people back to your site. 
 
 
