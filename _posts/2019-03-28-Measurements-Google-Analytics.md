@@ -3,8 +3,6 @@ title: Capturing measurements in Google Analytics
 date: 2019-03-28 
 description: To get a better picture of how users are experiencing your site or application, you have to send additional interaction data to Google Analytics.
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
-#categories:
--  Retargeting
 ---
 
 Before you can send data to Google Analytics, you have to add the `analytics.js` library and the default `tracking snippet` to your page.
