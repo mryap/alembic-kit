@@ -44,9 +44,11 @@ This is what I learned so far after completing the course [From Data to Insights
 -  GA360 exports to BigQuery is specific to the view.  This means that anything you filter out in the view you’re exporting does not appear in the BigQuery data.	
 
 
-### Some Use Case
+###  Use Case
 
 Connect your Firebase project to BigQuery and export your predictions, join your Crashlitics data and target users who had a difficult time using your app and keep them engaged.
+
+BigQuery sits on the edge between data storage and data processing. The usual reason to store data in BigQuery is to use its big data analysis and interactive query and capabilities. You would not want to use BigQuery for example as the backings store for an online application.
 
 ### DataLab
 
