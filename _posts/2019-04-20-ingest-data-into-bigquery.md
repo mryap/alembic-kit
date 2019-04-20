@@ -7,7 +7,7 @@ categories:
 -  BigQuery
 ---
 
-What I learn from created a new dataset and ingested new external data sources into BigQuery from CSV, Google Cloud Storage, and Google Drive.
+What I learn from ingesting new external data sources into BigQuery from CSV, Google Cloud Storage, and Google Drive.
 
 Linking external tables to BigQuery (e.g. Google Spreadsheets or directly from Google Cloud Storage) has several limitations. Two of the most significant are:
 
