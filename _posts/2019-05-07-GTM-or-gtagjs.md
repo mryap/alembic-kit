@@ -1,5 +1,5 @@
 ---
-title: Google Tag Manager (GTM) or gtag.js?
+title: Google Tag Manager (GTM) or Global Site Tag (gtag.js)?
 date: 2019-05-07 
 description: Google Tag Manager (GTM) or Global Site Tag (gtag.js)? 
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
@@ -21,8 +21,7 @@ Difference between Universal Analytics (Analytics.js) And Global Site Tag (gtag.
 
 `gtag.js` is a script that allows you to send data to only Google Marketing Platform (Google Ads, Campaign Manager, Display & Video 360, Search Ads 360, and Google Analytics) It will not work with non-google products like Facebook conversion pixels or heatmapping tool tags(the so-called "3rd party tags")
 
-You just need one snippet per page.
-
+![](https://res.cloudinary.com/mryap/image/upload/v1557327756/global-site-tag.jpg)
 
 Your gtag.js snippet would look like this if you’re using Google Analytics and Google AdWords together
 
