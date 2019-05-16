@@ -1,5 +1,5 @@
 ---
-title: Analytics Retargeting 
+title: Power of Analytics Remarketing
 date: 2019-03-27 
 description: In the context of Paid Acquisition, remarketing means being able to interact with those who have already experienced your site.  
 #image: "/img/measurement-in-mutli-screen-world5.jpg"
@@ -7,9 +7,7 @@ categories:
 -  Retargeting
 ---
 
-People don’t commit when they first click on a PPC Ads.*  
-
-To keep your value proposition continuously at the front and center in the minds of your customers, remarketing is essential. 
+People don’t commit when they first click on a PPC Ads. To keep your value proposition continuously at the front and center in the minds of your customers, remarketing is essential. 
 
 Like most things in paid search, analyze your data and develop a strategy.  You’ll need to decide which visitors to your site you’d like to target ads to.  For example, you can use the URL of thank you page for a remarketing list. To help you with this, you need to have Google Analytics goal funnels set up.
 
@@ -53,5 +51,4 @@ This is a complicated tactic that requires that the site is tagged with at least
 Even if your product or services is THE perfect fit, most website visitors aren’t buying today. Maybe they’re waiting on the next paycheck. These visitors are highly qualified and a lot more likely to make a purchase compared to a random guy off the street. In the context of Paid Acquisition, the power of Remarketing is undeniable. Being able to interact with those who have already experienced your site. Remarketing is about getting people back to your site. 
 
 
-* When they did, they already have interact with the organisation at other digital touchpoints offline or online which for some reason escape from marketers radar. 
 
