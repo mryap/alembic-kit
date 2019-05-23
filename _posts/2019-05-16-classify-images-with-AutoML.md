@@ -106,7 +106,7 @@ python predict.py YOUR_LOCAL_IMAGE_FILE yourgcpprojectid ICN8568119176101169160
 
 ### Final Thoughts
 
-This toy example is just a preview of what you can do with AutoML on GCP without writing a code. To further fine tune the ML model,  
+This toy example is just a preview of what you can do with AutoML on GCP without writing a code.   
 
 Do not confuse AutoML Vision with AutoML Table. AutoML Tables introduce during Google Cloud 2019 are machine learning models on structured data (i.e. Tables and rows). It  brings Linear Regression and Logistic Regression to Google Sheets. 
 
