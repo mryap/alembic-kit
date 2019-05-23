@@ -1,4 +1,3 @@
-
 ---
 title: Classify Images with AutoML Vision
 date: 2019-05-16 
@@ -20,7 +19,7 @@ Training a model with AutoML Vision and evaluating its accuracy.
 
 Generating predictions on your trained model.
 
----
+
 ### Set up AutoML Vision
 AutoML Vision provides an interface for all the steps in training an image classification model and generating predictions on it. Start by enabling the Cloud AutoML API.
 
@@ -33,7 +32,7 @@ This may take a minute. You should now be on the following page (ensure that the
 
 If you are working with a dataset that isn't already labeled, AutoML Vision provides an in-house human labeling service.
 
----
+
 ### Train your model
 
 ![image](https://user-images.githubusercontent.com/15719191/57850157-28eef880-77d5-11e9-8327-697cb328c327.png)
@@ -41,7 +40,7 @@ If you are working with a dataset that isn't already labeled, AutoML Vision prov
 
 You're ready to start training your model! AutoML Vision handles this for you automatically, without requiring you to write any of the model code.
 
----
+
 
 ### Evaluate your model
 
@@ -55,7 +54,7 @@ In the Evaluate tab, you'll see information about Precision and Recall of the mo
 
 ![image](https://user-images.githubusercontent.com/15719191/57850642-496b8280-77d6-11e9-90a5-65f08b63fd80.png)
 
----
+
 
 ### Generate predictions
 
@@ -65,7 +64,7 @@ Navigate to the Predict tab in the AutoML UI:
 
 ![image](https://user-images.githubusercontent.com/15719191/57850685-6a33d800-77d6-11e9-81fd-aab4ac5b5773.png)
 
----
+
 
 ### Cloud Shell
 
