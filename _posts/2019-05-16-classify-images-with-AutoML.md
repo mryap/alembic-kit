@@ -7,33 +7,31 @@ categories:
 ---
 
 
-AutoML Vision is a cloud services from Google Cloud Platform. It helps those with limited Machine Learning expertise to train high quality image recognition models. All you have to do is to upload images to the AutoML UI,train a model that will be immediately available for generating predictions via an easy to use 
-`REST API`.
+AutoML Vision is a cloud services from Google Cloud Platform. It helps those with limited Machine Learning expertise to train high quality image recognition models without writing any code. You upload images to AutoML via a web browser,train a model that will be immediately available for generating predictions via an easy to use `REST API`.
 
-In this example, I uploaded images to GCP Cloud Storage and use AutoML to train a custom model to recognize different types of clouds (cumulus, cumulonimbus, etc.).
+In this example, I uploaded images to GCP Cloud Storage and use AutoML to recognize different types of clouds (cumulus, cumulonimbus, etc.).
 
-The Steps are as follows:
+The Steps are:
 - Uploading a labeled dataset to Google Cloud Storage and connecting it to AutoML Vision with a CSV label file.
 
 - Training a model with AutoML Vision and evaluating its accuracy.
 
 - Generating predictions on your trained model.
 
-The last 2 steps for ML practitioners like me is an essential steps whether you delegate the comuting task to cloud platform or locally on your PC. 
+The last 2 steps for ML practitioners like me are essential steps whether you do it on a Cloud platform like GCP or locally on your PC. 
 
 ### Set up AutoML Vision
 
-AutoML Vision provides an interface for all the steps in training an image classification model and generating predictions on it. Start by enabling the Cloud AutoML API.
+AutoML Vision provides an interface for all the steps in training an image classification model and generating predictions on it. You start by enabling the `Cloud AutoML API`. Open the navigation menu and and select APIs & Services > Library. In the search bar type in "Cloud AutoML API". Click on the Cloud AutoML API result and then click Enable. 
 
-Open the navigation menu and and select APIs & Services > Library. In the search bar type in "Cloud AutoML API". Click on the Cloud AutoML API result and then click Enable. 
 This may take a minute. You should now be on the following page (ensure that the activation status is set to Enabled):
 
 
 ![image](https://user-images.githubusercontent.com/15719191/57849969-aebe7400-77d4-11e9-8d7e-2d159ee1de52.png)
 
-```
+
 NOTE: If you are working with a dataset that isn't already labeled, AutoML Vision provides an in-house human labeling service.
-```
+
 
 ### Train your model
 
@@ -105,3 +103,12 @@ Execute the request
 ~~~
 python predict.py YOUR_LOCAL_IMAGE_FILE yourgcpprojectid ICN8568119176101169160
 ~~~
+
+### Final Thoughts
+
+This toy example is just a preview of what you can do with AutoML on GCP without writing a code. To further fine tune the ML model,  
+
+Do not confuse AutoML Vision with AutoML Table. AutoML Tables introduce during Google Cloud 2019 are machine learning models on structured data (i.e. Tables and rows). It  brings Linear Regression and Logistic Regression to Google Sheets. 
+
+Images like clouds or photos of customers using your products are consider unstructured data. 
+
