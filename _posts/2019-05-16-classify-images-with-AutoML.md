@@ -6,32 +6,34 @@ categories:
 -  GCP AutoML
 ---
 
-## AutoML (16th May 2019)
 
-AutoML Vision helps developers with limited ML expertise train high quality image recognition models. Once you upload images to the AutoML UI, you can train a model that will be immediately available on GCP for generating predictions via an easy to use REST API.
+AutoML Vision is a cloud services from Google Cloud Platform. It helps those with limited Machine Learning expertise to train high quality image recognition models. All you have to do is to upload images to the AutoML UI,train a model that will be immediately available for generating predictions via an easy to use 
+`REST API`.
 
-upload images to Cloud Storage and use them to train a custom model to recognize different types of clouds (cumulus, cumulonimbus, etc.).
+In this example, I uploaded images to GCP Cloud Storage and use AutoML to train a custom model to recognize different types of clouds (cumulus, cumulonimbus, etc.).
 
-What you'll learn
-Uploading a labeled dataset to Google Cloud Storage and connecting it to AutoML Vision with a CSV label file.
+The Steps are as follows:
+- Uploading a labeled dataset to Google Cloud Storage and connecting it to AutoML Vision with a CSV label file.
 
-Training a model with AutoML Vision and evaluating its accuracy.
+- Training a model with AutoML Vision and evaluating its accuracy.
 
-Generating predictions on your trained model.
+- Generating predictions on your trained model.
 
+The last 2 steps for ML practitioners like me is an essential steps whether you delegate the comuting task to cloud platform or locally on your PC. 
 
 ### Set up AutoML Vision
+
 AutoML Vision provides an interface for all the steps in training an image classification model and generating predictions on it. Start by enabling the Cloud AutoML API.
 
-Open the navigation menu and and select APIs & Services > Library. In the search bar type in "Cloud AutoML API". Click on the Cloud AutoML API result and then click Enable.
-
+Open the navigation menu and and select APIs & Services > Library. In the search bar type in "Cloud AutoML API". Click on the Cloud AutoML API result and then click Enable. 
 This may take a minute. You should now be on the following page (ensure that the activation status is set to Enabled):
 
 
 ![image](https://user-images.githubusercontent.com/15719191/57849969-aebe7400-77d4-11e9-8d7e-2d159ee1de52.png)
 
-If you are working with a dataset that isn't already labeled, AutoML Vision provides an in-house human labeling service.
-
+```
+NOTE: If you are working with a dataset that isn't already labeled, AutoML Vision provides an in-house human labeling service.
+```
 
 ### Train your model
 
@@ -58,7 +60,7 @@ In the Evaluate tab, you'll see information about Precision and Recall of the mo
 
 ### Generate predictions
 
-Now it's time for the most important part: generating predictions on your trained model using data it hasn't seen before.
+Now it's time for the most important part: generating predictions on your trained model using data it hasn't seen before. Again this is not new for ML people like me.
 
 Navigate to the Predict tab in the AutoML UI:
 
@@ -68,7 +70,7 @@ Navigate to the Predict tab in the AutoML UI:
 
 ### Cloud Shell
 
-In addition to generating predictions in the AutoML UI, you can also use the REST API or the Python client to make prediction requests on your trained model. Check out the tabs for each to see some sample code. You can try it out by copy/pasting these commands into Cloud Shell and providing an image URL.
+In addition to generating predictions in the AutoML UI, you can also use the REST API or the Python client to make prediction requests on your trained model. The sample Python code. You can try it out by copy/pasting these commands into Google Cloud Shell and providing an image URL.
 
 predict.py
 ~~~
@@ -101,5 +103,5 @@ if __name__ == '__main__':
 Execute the request
 
 ~~~
-python predict.py YOUR_LOCAL_IMAGE_FILE qwiklabs-gcp-7a6e1880e0f1813d ICN8568119176101169160
+python predict.py YOUR_LOCAL_IMAGE_FILE yourgcpprojectid ICN8568119176101169160
 ~~~
