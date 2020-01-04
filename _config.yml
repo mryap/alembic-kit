@@ -22,7 +22,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'Hire Yap'
+title: 'Test & Optimize'
 description: 'This is Yap Shiao Shyan personal website'
 # permalink: pretty
 logo: "https://github.com/identicons/mryap.png"
