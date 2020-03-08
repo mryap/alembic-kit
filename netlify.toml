@@ -8,6 +8,6 @@
 [[redirects]]
   from = "/"
   to = "https://www.testandoptimize.com/"
-  status = 200
+  status = 301
   force = true
   headers = {X-From = "Netlify"}
