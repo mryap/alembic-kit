@@ -5,9 +5,3 @@
 [build.environment]
   JEKYLL_ENV = "production"
 
-[[redirects]]
-  from = "/"
-  to = ""
-  status = 301
-  force = true
-  headers = {X-From = "Netlify"}
